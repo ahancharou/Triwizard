@@ -1,5 +1,5 @@
 import Champions.Champion;
-import Champions.Champions;
+import Factory.Champions;
 import Factory.GobletOfFire;
 
 public class Runner {

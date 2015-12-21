@@ -1,7 +1,6 @@
 package Factory;
 
 import Champions.Champion;
-import Champions.Champions;
 import Champions.HarryPotter;
 import Champions.CedricDiggory;
 import Champions.FleurDelacour;
